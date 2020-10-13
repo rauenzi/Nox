@@ -8632,6 +8632,26 @@ body:active .popout-3sVMXz.POPOUT_DID_RERENDERight-3DdP6m.noArrow-3BYQ0Z[style*=
   color: var(--nox-accent) !important;
   background: var(--nox-white) !important; }
 
+.members-1998pB .membersGroup-v9BXpm {
+  margin-top: 0px;
+  margin-left: 10px;
+  height: auto;
+  background: var(--nox-level2); }
+
+.members-1998pB, .members-1998pB > div {
+  background-color: var(--nox-level2); }
+
+.layout-2DM8Md {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 4px;
+  height: 40px;
+  padding: 0 8px; }
+
 /* End Member List */
 .streaming-2_dnHe {
   animation: streaming-flash 1.5s linear infinite; }
